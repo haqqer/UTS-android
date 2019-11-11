@@ -1,0 +1,7 @@
+#Mon Nov 11 10:27:22 WIB 2019
+base.0=/home/haqqer/Documents/SEM-5/android/ListView-CRUD-master/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/haqqer/Documents/SEM-5/android/ListView-CRUD-master/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
